@@ -7,14 +7,14 @@ TASK 1 -> I used the Manage Hashes technique
 - 
 - I blocked/restricted the attacker's SHA1 file hash.
 
-  [Pyramid-of-pain-summit-challange Dashboard](pyramid/hash1.png)
+  ![Pyramid-of-pain-summit-challange](pyramid/hash1.png)
 
 
 
 TASK 2 -> I used the firewall defense technique
 - 
 - I blocked the IP (154.35.10.113) from trying to connect to any destination
- ![Pyramid-of-pain-summit-challange Dashboard](pyramid/firew.png)
+ ![Pyramid-of-pain-summit-challange](pyramid/firew.png)
 
 
 TASK 3 -> I used the DNS filter defense technique
@@ -27,6 +27,4 @@ TASK 3 -> I used the DNS filter defense technique
 
 
 
-## Alert
 
-![Pyramid-of-pain-summit-challange Alert](pyramid/hash1.png)
