@@ -1,5 +1,4 @@
-# In this scenario I have been assigned to work with an external penetration tester in an iterative purple-team. The tester will be attempting to execute malware samples on a simulated internal user workstation. At the same time, I'll need to configure PicoSecure's security tools to detect and prevent the malware from executing. 
-# I'll be Following the Pyramid of Pain's ascending priority of indicators, y main of objective is to increase the simulated adversaries' cost of operations and chase them away for good.
+# In this scenario I have been assigned to work with an external penetration tester in an iterative purple-team. The tester will be attempting to execute malware samples on a simulated internal user workstation. At the same time, I'll need to configure PicoSecure's security tools to detect and prevent the malware from executing. I'll be Following the Pyramid of Pain's ascending priority of indicators, my main of objective is to increase the simulated adversaries' cost of operations and chase them away for good.
 
 
 
