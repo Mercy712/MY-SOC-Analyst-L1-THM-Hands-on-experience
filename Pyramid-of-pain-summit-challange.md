@@ -22,3 +22,11 @@ TASK 3 -> I used the DNS filter defense technique
 - The attacker may be using a DNS connection to communicate with their (C2) server, or to upload or download files over FTP. 
 - I blocked attacker from connecting to the C2 server by creating a deny rule.
   [Pyramid-of-pain-summit-challange Dashboard](pyramid/dns.png)
+
+
+
+
+
+## Alert
+
+![Pyramid-of-pain-summit-challange Alert](pyramid/hash1.png)
